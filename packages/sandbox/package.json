@@ -20,7 +20,7 @@
     "micro": "^9.3.3",
     "micro-dev": "^3.0.0",
     "raw-loader": "^1.0.0",
-    "react": "^16.4.2",
+    "react": "^17.0.1",
     "react-dom": "^16.4.2",
     "react-live": "^1.11.0",
     "strip-ansi": "^5.0.0",
